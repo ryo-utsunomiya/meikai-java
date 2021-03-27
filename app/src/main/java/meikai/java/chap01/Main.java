@@ -3,7 +3,7 @@ package meikai.java.chap01;
 import java.util.Scanner;
 
 public class Main {
-  public static void run() {
+  public static void main(String[] args) {
     var stdin = new Scanner(System.in);
     System.out.println("enter 3 numbers:");
     var a = stdin.nextInt();

@@ -13,7 +13,7 @@ dependencies {
 }
 
 application {
-    mainClass.set('meikai.java.App')
+    mainClass.set('meikai.java.chap01.Main')
 }
 
 tasks.named('test') {
